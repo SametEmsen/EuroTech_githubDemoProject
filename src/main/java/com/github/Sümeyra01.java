@@ -7,4 +7,6 @@ public class Sümeyra01 {
 
     // gercekten zor
 
+    // helledilir
+
 }
