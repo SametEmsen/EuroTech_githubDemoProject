@@ -5,6 +5,8 @@ public class Sümeyra01 {
     // başarırsınız
     // projeye calismak icin zaman yok
 
+    // gercekten zor
+
     // helledilir
 
 }
